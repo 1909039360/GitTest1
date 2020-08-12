@@ -10,5 +10,6 @@ public class HelloWord {
         System.out.println("你好 git");
         System.out.println("你好 java");
         System.out.println("你好 hotfit");
+        //我是git 我是
     }
 }
